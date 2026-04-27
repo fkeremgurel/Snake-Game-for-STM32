@@ -7,4 +7,4 @@ I intended to program a main menu and score counter but I aimed to submit the as
 
 
 
-
+I also added HEX file to be able to upload it directly to an STM32

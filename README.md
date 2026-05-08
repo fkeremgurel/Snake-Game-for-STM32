@@ -29,7 +29,7 @@ on time.
 - HEX file included for direct flashing via STM32CubeProgrammer
 
 ## Technical Notes
-- Input handled via polling — interrupt-based input was 
+- Input handled via polling — interrupt based input was 
   scoped out intentionally to meet the submission deadline
 - Main menu and score display were planned but deprioritized 
   in favor of core gameplay
